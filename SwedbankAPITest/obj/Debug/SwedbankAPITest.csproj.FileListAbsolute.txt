@@ -1,0 +1,15 @@
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\SwedbankAPITest.exe.config
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\SwedbankAPITest.exe
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\SwedbankAPITest.pdb
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\SwedbankAPI.dll
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\RestSharp.dll
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\SwedbankAPI.pdb
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\RestSharp.xml
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\obj\Debug\SwedbankAPITest.csprojAssemblyReference.cache
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\obj\Debug\SwedbankAPITest.csproj.CopyComplete
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\obj\Debug\SwedbankAPITest.exe
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\obj\Debug\SwedbankAPITest.pdb
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPITest\bin\Debug\SwedbankAPI.dll.config

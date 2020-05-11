@@ -1,0 +1,12 @@
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\bin\Debug\SwedbankAPI.dll
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\bin\Debug\SwedbankAPI.pdb
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\bin\Debug\RestSharp.dll
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\bin\Debug\RestSharp.xml
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\obj\Debug\SwedbankAPI.csprojAssemblyReference.cache
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\obj\Debug\SwedbankAPI.csproj.CopyComplete
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\obj\Debug\SwedbankAPI.dll
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\obj\Debug\SwedbankAPI.pdb
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\bin\Debug\SwedbankAPI.dll.config
+C:\Users\Benjamin\Source\Repos\SwedbankAPI\SwedbankAPI\bin\Debug\RestSharp.Serializers.Newtonsoft.Json.dll
